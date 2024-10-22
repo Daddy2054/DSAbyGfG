@@ -22,6 +22,6 @@ def linearProbing(hashSize, arr, sizeOfArray):
     return hash_table
 
 
-#print(linearProbing(4, [4, 14, 24, 24, 44], 5))
+print(linearProbing(10, [46,34,42,23,52,33], 6))
 print(linearProbing(8, [0, 12, 8, 3, 3, 21 ,13, 13 ,5, 7, 16], 11))
 #0 8 7 3 12 21 13 5
